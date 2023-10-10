@@ -1,6 +1,6 @@
 # constants.py
 
-# URL for WhatsApp Web
+# URL for Insta Web
 INSTA_WEB_URL = "https://www.instagram.com/"
 
 # File paths for WebDriver executables
